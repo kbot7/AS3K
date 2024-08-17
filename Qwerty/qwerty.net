@@ -1,810 +1,1869 @@
-(export (version D)
-  (design
-    (source /home/joe/Desktop/MAS3K-master/MAS3k-C/qwerty/qwerty/qwerty.sch)
-    (date "Wed 05 Dec 2018 10:20:01 AM EST")
-    (tool "Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1")
-    (sheet (number 1) (name /) (tstamps /)
-      (title_block
-        (title "Mechanical Alphasmart 3000 Keyboard, QWERTY layout")
-        (company)
-        (rev C)
-        (date)
-        (source qwerty.sch)
-        (comment (number 1) (value ""))
-        (comment (number 2) (value "LazyDog on GH"))
-        (comment (number 3) (value jyamine815@gmail.com))
-        (comment (number 4) (value "Joe Yamine")))))
-  (components
-    (comp (ref J1)
-      (value Conn_01x16)
-      (footprint AS_Parts:SLW16R-1C7LF)
-      (datasheet ~)
-      (libsource (lib Connector_Generic) (part Conn_01x16) (description "Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02303F))
-    (comp (ref J2)
-      (value Conn_01x10)
-      (footprint AS_Parts:HLW10R-2C7LF)
-      (datasheet ~)
-      (libsource (lib Connector_Generic) (part Conn_01x10) (description "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02393C))
-    (comp (ref ON/OFF1)
-      (value ON/OFF)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C023F0D))
-    (comp (ref FILE1)
-      (value FILE1)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02754A))
-    (comp (ref FILE2)
-      (value FILE2)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C0275FC))
-    (comp (ref FILE3)
-      (value FILE3)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C027602))
-    (comp (ref FILE4)
-      (value FILE4)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C027810))
-    (comp (ref FILE5)
-      (value FILE5)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C027816))
-    (comp (ref FILE6)
-      (value FILE6)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02781C))
-    (comp (ref FILE7)
-      (value FILE7)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02860E))
-    (comp (ref FILE8)
-      (value FILE8)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C028614))
-    (comp (ref PRINT1)
-      (value PRINT)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02861A))
-    (comp (ref SPELL1)
-      (value SPELL)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C028620))
-    (comp (ref CLEAR1)
-      (value CLEAR)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C028626))
-    (comp (ref APPS1)
-      (value APPS)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02862C))
-    (comp (ref SEND1)
-      (value SEND)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C028632))
-    (comp (ref GRAVE1)
-      (value GRAVE)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E36))
-    (comp (ref ONE1)
-      (value 1)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E3C))
-    (comp (ref TWO1)
-      (value 2)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E42))
-    (comp (ref THREE1)
-      (value 3)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E48))
-    (comp (ref FOUR1)
-      (value 4)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E4E))
-    (comp (ref FIVE1)
-      (value 5)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E54))
-    (comp (ref SIX1)
-      (value 6)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E5A))
-    (comp (ref SEVEN1)
-      (value 7)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E60))
-    (comp (ref EIGHT1)
-      (value 8)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E66))
-    (comp (ref NINE1)
-      (value 9)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E6C))
-    (comp (ref ZERO1)
-      (value 0)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E72))
-    (comp (ref HYPHEN1)
-      (value HYPHEN)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E78))
-    (comp (ref EQUALS1)
-      (value EQUALS)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E7E))
-    (comp (ref BACKSP1)
-      (value BACKSP)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C029E84))
-    (comp (ref TAB1)
-      (value TAB)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BC9C))
-    (comp (ref Q1)
-      (value Q)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCA2))
-    (comp (ref W1)
-      (value W)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCA8))
-    (comp (ref E1)
-      (value E)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCAE))
-    (comp (ref R1)
-      (value R)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCB4))
-    (comp (ref T1)
-      (value T)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCBA))
-    (comp (ref Y1)
-      (value Y)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCC0))
-    (comp (ref U1)
-      (value U)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCC6))
-    (comp (ref I1)
-      (value I)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCCC))
-    (comp (ref O1)
-      (value O)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCD2))
-    (comp (ref P1)
-      (value P)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCD8))
-    (comp (ref OBRKT1)
-      (value LBRKT)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCDE))
-    (comp (ref CBRKT1)
-      (value RBRKT)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCE4))
-    (comp (ref BSLASH1)
-      (value BSLASH)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02BCEA))
-    (comp (ref CAPS1)
-      (value CAPS)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3C4))
-    (comp (ref A1)
-      (value A)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3CA))
-    (comp (ref S1)
-      (value S)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3D0))
-    (comp (ref D1)
-      (value D)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3D6))
-    (comp (ref F1)
-      (value F)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3DC))
-    (comp (ref G1)
-      (value G)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3E2))
-    (comp (ref H1)
-      (value H)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3E8))
-    (comp (ref J3)
-      (value J)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3EE))
-    (comp (ref K1)
-      (value K)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3F4))
-    (comp (ref L1)
-      (value L)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D3FA))
-    (comp (ref SEMICOL1)
-      (value SEMICOL)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D400))
-    (comp (ref APOS1)
-      (value APOS)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D406))
-    (comp (ref ENTER1)
-      (value ENTER)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D412))
-    (comp (ref FIND1)
-      (value FIND)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D418))
-    (comp (ref LSHIFT1)
-      (value LSHIFT)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D41E))
-    (comp (ref Z1)
-      (value Z)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D424))
-    (comp (ref X1)
-      (value X)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D42A))
-    (comp (ref C1)
-      (value C)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D430))
-    (comp (ref V1)
-      (value V)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D436))
-    (comp (ref B1)
-      (value B)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D43C))
-    (comp (ref N1)
-      (value N)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D442))
-    (comp (ref M1)
-      (value M)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D448))
-    (comp (ref COMMA1)
-      (value COMMA)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D44E))
-    (comp (ref PERIOD1)
-      (value PERIOD)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D454))
-    (comp (ref SLASH1)
-      (value SLASH)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D45A))
-    (comp (ref RSHIFT1)
-      (value RSHIFT)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D460))
-    (comp (ref ESC1)
-      (value ESC)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D466))
-    (comp (ref CTRL1)
-      (value CTRL)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D46C))
-    (comp (ref LOPTION1)
-      (value LOPTION)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D472))
-    (comp (ref CMD1)
-      (value CMD)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D478))
-    (comp (ref HOME1)
-      (value HOME)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D47E))
-    (comp (ref END1)
-      (value END)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D484))
-    (comp (ref LSPACE1)
-      (value LSPACE)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP-2U)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D48A))
-    (comp (ref RSPACE1)
-      (value RSPACE)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP-2U)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D49C))
-    (comp (ref ROPTION1)
-      (value ROPTION)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D4A2))
-    (comp (ref LEFT1)
-      (value LEFT)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D4A8))
-    (comp (ref UP1)
-      (value UP)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D4AE))
-    (comp (ref DOWN1)
-      (value DOWN)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D4B4))
-    (comp (ref RIGHT1)
-      (value RIGHT)
-      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP)
-      (libsource (lib mx1a) (part MX1A) (description ""))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02D4BA))
-    (comp (ref SW1)
-      (value SW_DIP_x01)
-      (footprint AS_Parts:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm_wJumper)
-      (libsource (lib Switch) (part SW_DIP_x01) (description "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"))
-      (sheetpath (names /) (tstamps /))
-      (tstamp 5C02AA16)))
-  (libparts
-    (libpart (lib Connector_Generic) (part Conn_01x10)
-      (description "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)")
-      (docs ~)
-      (footprints
-        (fp Connector*:*_1x??_*))
-      (fields
-        (field (name Reference) J)
-        (field (name Value) Conn_01x10))
-      (pins
-        (pin (num 1) (name Pin_1) (type passive))
-        (pin (num 2) (name Pin_2) (type passive))
-        (pin (num 3) (name Pin_3) (type passive))
-        (pin (num 4) (name Pin_4) (type passive))
-        (pin (num 5) (name Pin_5) (type passive))
-        (pin (num 6) (name Pin_6) (type passive))
-        (pin (num 7) (name Pin_7) (type passive))
-        (pin (num 8) (name Pin_8) (type passive))
-        (pin (num 9) (name Pin_9) (type passive))
-        (pin (num 10) (name Pin_10) (type passive))))
-    (libpart (lib Connector_Generic) (part Conn_01x16)
-      (description "Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)")
-      (docs ~)
-      (footprints
-        (fp Connector*:*_1x??_*))
-      (fields
-        (field (name Reference) J)
-        (field (name Value) Conn_01x16))
-      (pins
-        (pin (num 1) (name Pin_1) (type passive))
-        (pin (num 2) (name Pin_2) (type passive))
-        (pin (num 3) (name Pin_3) (type passive))
-        (pin (num 4) (name Pin_4) (type passive))
-        (pin (num 5) (name Pin_5) (type passive))
-        (pin (num 6) (name Pin_6) (type passive))
-        (pin (num 7) (name Pin_7) (type passive))
-        (pin (num 8) (name Pin_8) (type passive))
-        (pin (num 9) (name Pin_9) (type passive))
-        (pin (num 10) (name Pin_10) (type passive))
-        (pin (num 11) (name Pin_11) (type passive))
-        (pin (num 12) (name Pin_12) (type passive))
-        (pin (num 13) (name Pin_13) (type passive))
-        (pin (num 14) (name Pin_14) (type passive))
-        (pin (num 15) (name Pin_15) (type passive))
-        (pin (num 16) (name Pin_16) (type passive))))
-    (libpart (lib Switch) (part SW_DIP_x01)
-      (description "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol")
-      (footprints
-        (fp SW?DIP?x1*))
-      (fields
-        (field (name Reference) SW)
-        (field (name Value) SW_DIP_x01))
-      (pins
-        (pin (num 1) (name ~) (type passive))
-        (pin (num 2) (name ~) (type passive))))
-    (libpart (lib mx1a) (part MX1A)
-      (fields
-        (field (name Reference) S)
-        (field (name Value) MX1A))
-      (pins
-        (pin (num 1) (name ~) (type passive))
-        (pin (num 2) (name ~) (type passive)))))
-  (libraries
-    (library (logical Connector_Generic)
-      (uri /usr/share/kicad/library/Connector_Generic.lib))
-    (library (logical Switch)
-      (uri /usr/share/kicad/library/Switch.lib))
-    (library (logical mx1a)
-      (uri /home/joe/Desktop/MAS3K-master/MAS3k-C/mx1a.lib)))
-  (nets
-    (net (code 1) (name "Net-(ON/OFF1-Pad1)")
-      (node (ref ON/OFF1) (pin 1))
-      (node (ref SW1) (pin 2)))
-    (net (code 2) (name /ROW10)
-      (node (ref J2) (pin 10)))
-    (net (code 3) (name /COL12)
-      (node (ref J1) (pin 12))
-      (node (ref HYPHEN1) (pin 1))
-      (node (ref ZERO1) (pin 1))
-      (node (ref APOS1) (pin 1))
-      (node (ref SLASH1) (pin 1))
-      (node (ref P1) (pin 1))
-      (node (ref OBRKT1) (pin 1))
-      (node (ref SEMICOL1) (pin 1)))
-    (net (code 4) (name /ROW7)
-      (node (ref ONE1) (pin 2))
-      (node (ref EIGHT1) (pin 2))
-      (node (ref THREE1) (pin 2))
-      (node (ref CLEAR1) (pin 2))
-      (node (ref FOUR1) (pin 2))
-      (node (ref SPELL1) (pin 2))
-      (node (ref TWO1) (pin 2))
-      (node (ref SEVEN1) (pin 2))
-      (node (ref NINE1) (pin 2))
-      (node (ref J2) (pin 7))
-      (node (ref ZERO1) (pin 2)))
-    (net (code 5) (name /ROW6)
-      (node (ref FIVE1) (pin 2))
-      (node (ref LOPTION1) (pin 2))
-      (node (ref FILE1) (pin 2))
-      (node (ref FILE2) (pin 2))
-      (node (ref FILE8) (pin 2))
-      (node (ref PRINT1) (pin 2))
-      (node (ref J2) (pin 6))
-      (node (ref HYPHEN1) (pin 2))
-      (node (ref EQUALS1) (pin 2))
-      (node (ref APPS1) (pin 2))
-      (node (ref SEND1) (pin 2))
-      (node (ref GRAVE1) (pin 2))
-      (node (ref SIX1) (pin 2)))
-    (net (code 6) (name /ROW5)
-      (node (ref HOME1) (pin 2))
-      (node (ref P1) (pin 2))
-      (node (ref O1) (pin 2))
-      (node (ref J2) (pin 5))
-      (node (ref Q1) (pin 2))
-      (node (ref W1) (pin 2))
-      (node (ref E1) (pin 2))
-      (node (ref I1) (pin 2))
-      (node (ref R1) (pin 2))
-      (node (ref U1) (pin 2)))
-    (net (code 7) (name /ROW4)
-      (node (ref F1) (pin 2))
-      (node (ref BSLASH1) (pin 2))
-      (node (ref A1) (pin 2))
-      (node (ref S1) (pin 2))
-      (node (ref D1) (pin 2))
-      (node (ref J2) (pin 4))
-      (node (ref SEMICOL1) (pin 2))
-      (node (ref J3) (pin 2))
-      (node (ref K1) (pin 2))
-      (node (ref L1) (pin 2)))
-    (net (code 8) (name /ROW3)
-      (node (ref FILE5) (pin 2))
-      (node (ref H1) (pin 2))
-      (node (ref G1) (pin 2))
-      (node (ref CMD1) (pin 2))
-      (node (ref DOWN1) (pin 2))
-      (node (ref J2) (pin 3))
-      (node (ref APOS1) (pin 2))
-      (node (ref FILE4) (pin 2))
-      (node (ref FILE6) (pin 2)))
-    (net (code 9) (name /ROW2)
-      (node (ref CAPS1) (pin 2))
-      (node (ref CBRKT1) (pin 2))
-      (node (ref LSHIFT1) (pin 2))
-      (node (ref TAB1) (pin 2))
-      (node (ref T1) (pin 2))
-      (node (ref BACKSP1) (pin 2))
-      (node (ref J2) (pin 2))
-      (node (ref OBRKT1) (pin 2))
-      (node (ref FILE7) (pin 2))
-      (node (ref Y1) (pin 2))
-      (node (ref FILE3) (pin 2)))
-    (net (code 10) (name /ROW1)
-      (node (ref J2) (pin 1))
-      (node (ref ON/OFF1) (pin 2)))
-    (net (code 11) (name /ROW8)
-      (node (ref ROPTION1) (pin 2))
-      (node (ref FIND1) (pin 2))
-      (node (ref M1) (pin 2))
-      (node (ref Z1) (pin 2))
-      (node (ref COMMA1) (pin 2))
-      (node (ref ENTER1) (pin 2))
-      (node (ref END1) (pin 2))
-      (node (ref PERIOD1) (pin 2))
-      (node (ref RSHIFT1) (pin 2))
-      (node (ref J2) (pin 8))
-      (node (ref C1) (pin 2))
-      (node (ref V1) (pin 2))
-      (node (ref X1) (pin 2)))
-    (net (code 12) (name /COL3)
-      (node (ref C1) (pin 1))
-      (node (ref D1) (pin 1))
-      (node (ref FILE3) (pin 1))
-      (node (ref FILE4) (pin 1))
-      (node (ref THREE1) (pin 1))
-      (node (ref E1) (pin 1))
-      (node (ref J1) (pin 3))
-      (node (ref FILE2) (pin 1)))
-    (net (code 13) (name /COL2)
-      (node (ref PRINT1) (pin 1))
-      (node (ref SPELL1) (pin 1))
-      (node (ref ENTER1) (pin 1))
-      (node (ref LSPACE1) (pin 1))
-      (node (ref RSPACE1) (pin 1))
-      (node (ref BACKSP1) (pin 1))
-      (node (ref J1) (pin 2))
-      (node (ref FILE5) (pin 1))
-      (node (ref BSLASH1) (pin 1)))
-    (net (code 14) (name /COL16)
-      (node (ref UP1) (pin 1))
-      (node (ref J1) (pin 16))
-      (node (ref SEND1) (pin 1))
-      (node (ref FIND1) (pin 1)))
-    (net (code 15) (name /COL15)
-      (node (ref RIGHT1) (pin 1))
-      (node (ref J1) (pin 15))
-      (node (ref APPS1) (pin 1)))
-    (net (code 16) (name /COL14)
-      (node (ref LEFT1) (pin 1))
-      (node (ref J1) (pin 14))
-      (node (ref END1) (pin 1))
-      (node (ref DOWN1) (pin 1)))
-    (net (code 17) (name /COL13)
-      (node (ref ESC1) (pin 1))
-      (node (ref CMD1) (pin 1))
-      (node (ref J1) (pin 13))
-      (node (ref HOME1) (pin 1))
-      (node (ref CLEAR1) (pin 1)))
-    (net (code 18) (name /ROW9)
-      (node (ref J2) (pin 9))
-      (node (ref ESC1) (pin 2))
-      (node (ref N1) (pin 2))
-      (node (ref SLASH1) (pin 2))
-      (node (ref CTRL1) (pin 2))
-      (node (ref B1) (pin 2))
-      (node (ref LSPACE1) (pin 2))
-      (node (ref RSPACE1) (pin 2))
-      (node (ref LEFT1) (pin 2))
-      (node (ref UP1) (pin 2))
-      (node (ref RIGHT1) (pin 2)))
-    (net (code 19) (name /COL9)
-      (node (ref CBRKT1) (pin 1))
-      (node (ref EIGHT1) (pin 1))
-      (node (ref COMMA1) (pin 1))
-      (node (ref J1) (pin 9))
-      (node (ref FILE6) (pin 1))
-      (node (ref I1) (pin 1))
-      (node (ref EQUALS1) (pin 1))
-      (node (ref K1) (pin 1)))
-    (net (code 20) (name /COL5)
-      (node (ref CTRL1) (pin 1))
-      (node (ref Q1) (pin 1))
-      (node (ref A1) (pin 1))
-      (node (ref TAB1) (pin 1))
-      (node (ref J1) (pin 5))
-      (node (ref GRAVE1) (pin 1))
-      (node (ref ONE1) (pin 1))
-      (node (ref Z1) (pin 1)))
-    (net (code 21) (name /COL7)
-      (node (ref J1) (pin 7))
-      (node (ref RSHIFT1) (pin 1))
-      (node (ref LSHIFT1) (pin 1)))
-    (net (code 22) (name /COL11)
-      (node (ref O1) (pin 1))
-      (node (ref FILE8) (pin 1))
-      (node (ref PERIOD1) (pin 1))
-      (node (ref NINE1) (pin 1))
-      (node (ref J1) (pin 11))
-      (node (ref FILE7) (pin 1))
-      (node (ref L1) (pin 1)))
-    (net (code 23) (name /COL10)
-      (node (ref ROPTION1) (pin 1))
-      (node (ref LOPTION1) (pin 1))
-      (node (ref J1) (pin 10)))
-    (net (code 24) (name /COL1)
-      (node (ref J1) (pin 1))
-      (node (ref SW1) (pin 1)))
-    (net (code 25) (name /COL4)
-      (node (ref TWO1) (pin 1))
-      (node (ref CAPS1) (pin 1))
-      (node (ref S1) (pin 1))
-      (node (ref J1) (pin 4))
-      (node (ref W1) (pin 1))
-      (node (ref X1) (pin 1))
-      (node (ref FILE1) (pin 1)))
-    (net (code 26) (name /COL6)
-      (node (ref G1) (pin 1))
-      (node (ref FOUR1) (pin 1))
-      (node (ref FIVE1) (pin 1))
-      (node (ref T1) (pin 1))
-      (node (ref R1) (pin 1))
-      (node (ref J1) (pin 6))
-      (node (ref F1) (pin 1))
-      (node (ref B1) (pin 1))
-      (node (ref V1) (pin 1)))
-    (net (code 27) (name /COL8)
-      (node (ref J3) (pin 1))
-      (node (ref H1) (pin 1))
-      (node (ref SEVEN1) (pin 1))
-      (node (ref SIX1) (pin 1))
-      (node (ref U1) (pin 1))
-      (node (ref Y1) (pin 1))
-      (node (ref J1) (pin 8))
-      (node (ref M1) (pin 1))
-      (node (ref N1) (pin 1)))))
+(export 
+  (version D) 
+  (design 
+    (source /home/joe/Desktop/MAS3K-master/MAS3k-C/qwerty/qwerty/qwerty.sch) 
+    (date "Wed 05 Dec 2018 10:20:01 AM EST") 
+    (tool "Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1") 
+    (sheet 
+      (number 1) 
+      (name /) 
+      (tstamps /) 
+      (title_block 
+        (title "Mechanical Alphasmart 3000 Keyboard, QWERTY layout") 
+        (company) 
+        (rev C) 
+        (date) 
+        (source qwerty.sch) 
+        (comment 
+          (number 1) 
+          (value "")) 
+        (comment 
+          (number 2) 
+          (value "LazyDog on GH")) 
+        (comment 
+          (number 3) 
+          (value jyamine815@gmail.com)) 
+        (comment 
+          (number 4) 
+          (value "Joe Yamine"))))) 
+  (components 
+    (comp 
+      (ref J1) 
+      (value Conn_01x16) 
+      (footprint AS_Parts:SLW16R-1C7LF) 
+      (datasheet ~) 
+      (libsource 
+        (lib Connector_Generic) 
+        (part Conn_01x16) 
+        (description "Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02303F)) 
+    (comp 
+      (ref J2) 
+      (value Conn_01x10) 
+      (footprint AS_Parts:HLW10R-2C7LF) 
+      (datasheet ~) 
+      (libsource 
+        (lib Connector_Generic) 
+        (part Conn_01x10) 
+        (description "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02393C)) 
+    (comp 
+      (ref ON/OFF1) 
+      (value ON/OFF) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C023F0D)) 
+    (comp 
+      (ref FILE1) 
+      (value FILE1) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02754A)) 
+    (comp 
+      (ref FILE2) 
+      (value FILE2) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C0275FC)) 
+    (comp 
+      (ref FILE3) 
+      (value FILE3) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C027602)) 
+    (comp 
+      (ref FILE4) 
+      (value FILE4) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C027810)) 
+    (comp 
+      (ref FILE5) 
+      (value FILE5) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C027816)) 
+    (comp 
+      (ref FILE6) 
+      (value FILE6) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02781C)) 
+    (comp 
+      (ref FILE7) 
+      (value FILE7) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02860E)) 
+    (comp 
+      (ref FILE8) 
+      (value FILE8) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C028614)) 
+    (comp 
+      (ref PRINT1) 
+      (value PRINT) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02861A)) 
+    (comp 
+      (ref SPELL1) 
+      (value SPELL) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C028620)) 
+    (comp 
+      (ref CLEAR1) 
+      (value CLEAR) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C028626)) 
+    (comp 
+      (ref APPS1) 
+      (value APPS) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02862C)) 
+    (comp 
+      (ref SEND1) 
+      (value SEND) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C028632)) 
+    (comp 
+      (ref GRAVE1) 
+      (value GRAVE) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E36)) 
+    (comp 
+      (ref ONE1) 
+      (value 1) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E3C)) 
+    (comp 
+      (ref TWO1) 
+      (value 2) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E42)) 
+    (comp 
+      (ref THREE1) 
+      (value 3) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E48)) 
+    (comp 
+      (ref FOUR1) 
+      (value 4) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E4E)) 
+    (comp 
+      (ref FIVE1) 
+      (value 5) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E54)) 
+    (comp 
+      (ref SIX1) 
+      (value 6) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E5A)) 
+    (comp 
+      (ref SEVEN1) 
+      (value 7) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E60)) 
+    (comp 
+      (ref EIGHT1) 
+      (value 8) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E66)) 
+    (comp 
+      (ref NINE1) 
+      (value 9) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E6C)) 
+    (comp 
+      (ref ZERO1) 
+      (value 0) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E72)) 
+    (comp 
+      (ref HYPHEN1) 
+      (value HYPHEN) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E78)) 
+    (comp 
+      (ref EQUALS1) 
+      (value EQUALS) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E7E)) 
+    (comp 
+      (ref BACKSP1) 
+      (value BACKSP) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C029E84)) 
+    (comp 
+      (ref TAB1) 
+      (value TAB) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BC9C)) 
+    (comp 
+      (ref Q1) 
+      (value Q) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCA2)) 
+    (comp 
+      (ref W1) 
+      (value W) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCA8)) 
+    (comp 
+      (ref E1) 
+      (value E) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCAE)) 
+    (comp 
+      (ref R1) 
+      (value R) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCB4)) 
+    (comp 
+      (ref T1) 
+      (value T) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCBA)) 
+    (comp 
+      (ref Y1) 
+      (value Y) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCC0)) 
+    (comp 
+      (ref U1) 
+      (value U) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCC6)) 
+    (comp 
+      (ref I1) 
+      (value I) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCCC)) 
+    (comp 
+      (ref O1) 
+      (value O) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCD2)) 
+    (comp 
+      (ref P1) 
+      (value P) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCD8)) 
+    (comp 
+      (ref OBRKT1) 
+      (value LBRKT) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCDE)) 
+    (comp 
+      (ref CBRKT1) 
+      (value RBRKT) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCE4)) 
+    (comp 
+      (ref BSLASH1) 
+      (value BSLASH) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02BCEA)) 
+    (comp 
+      (ref CAPS1) 
+      (value CAPS) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3C4)) 
+    (comp 
+      (ref A1) 
+      (value A) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3CA)) 
+    (comp 
+      (ref S1) 
+      (value S) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3D0)) 
+    (comp 
+      (ref D1) 
+      (value D) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3D6)) 
+    (comp 
+      (ref F1) 
+      (value F) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3DC)) 
+    (comp 
+      (ref G1) 
+      (value G) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3E2)) 
+    (comp 
+      (ref H1) 
+      (value H) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3E8)) 
+    (comp 
+      (ref J3) 
+      (value J) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3EE)) 
+    (comp 
+      (ref K1) 
+      (value K) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3F4)) 
+    (comp 
+      (ref L1) 
+      (value L) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D3FA)) 
+    (comp 
+      (ref SEMICOL1) 
+      (value SEMICOL) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D400)) 
+    (comp 
+      (ref APOS1) 
+      (value APOS) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D406)) 
+    (comp 
+      (ref ENTER1) 
+      (value ENTER) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D412)) 
+    (comp 
+      (ref FIND1) 
+      (value FIND) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D418)) 
+    (comp 
+      (ref LSHIFT1) 
+      (value LSHIFT) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D41E)) 
+    (comp 
+      (ref Z1) 
+      (value Z) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D424)) 
+    (comp 
+      (ref X1) 
+      (value X) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D42A)) 
+    (comp 
+      (ref C1) 
+      (value C) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D430)) 
+    (comp 
+      (ref V1) 
+      (value V) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D436)) 
+    (comp 
+      (ref B1) 
+      (value B) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D43C)) 
+    (comp 
+      (ref N1) 
+      (value N) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D442)) 
+    (comp 
+      (ref M1) 
+      (value M) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D448)) 
+    (comp 
+      (ref COMMA1) 
+      (value COMMA) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D44E)) 
+    (comp 
+      (ref PERIOD1) 
+      (value PERIOD) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D454)) 
+    (comp 
+      (ref SLASH1) 
+      (value SLASH) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D45A)) 
+    (comp 
+      (ref RSHIFT1) 
+      (value RSHIFT) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D460)) 
+    (comp 
+      (ref ESC1) 
+      (value ESC) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D466)) 
+    (comp 
+      (ref CTRL1) 
+      (value CTRL) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D46C)) 
+    (comp 
+      (ref LOPTION1) 
+      (value LOPTION) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D472)) 
+    (comp 
+      (ref CMD1) 
+      (value CMD) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D478)) 
+    (comp 
+      (ref HOME1) 
+      (value HOME) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D47E)) 
+    (comp 
+      (ref END1) 
+      (value END) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D484)) 
+    (comp 
+      (ref LSPACE1) 
+      (value LSPACE) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP-2U) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D48A)) 
+    (comp 
+      (ref RSPACE1) 
+      (value RSPACE) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP-2U) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D49C)) 
+    (comp 
+      (ref ROPTION1) 
+      (value ROPTION) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D4A2)) 
+    (comp 
+      (ref LEFT1) 
+      (value LEFT) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D4A8)) 
+    (comp 
+      (ref UP1) 
+      (value UP) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D4AE)) 
+    (comp 
+      (ref DOWN1) 
+      (value DOWN) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D4B4)) 
+    (comp 
+      (ref RIGHT1) 
+      (value RIGHT) 
+      (footprint Universal-Switch-Footprint:MX-ALPs-PG1350-FLIP) 
+      (libsource 
+        (lib mx1a) 
+        (part MX1A) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02D4BA)) 
+    (comp 
+      (ref SW1) 
+      (value SW_DIP_x01) 
+      (footprint AS_Parts:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm_wJumper) 
+      (libsource 
+        (lib Switch) 
+        (part SW_DIP_x01) 
+        (description "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5C02AA16))) 
+  (libparts 
+    (libpart 
+      (lib Connector_Generic) 
+      (part Conn_01x10) 
+      (description "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs ~) 
+      (footprints 
+        (fp Connector*:*_1x??_*)) 
+      (fields 
+        (field 
+          (name Reference) J) 
+        (field 
+          (name Value) Conn_01x10)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name Pin_1) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name Pin_2) 
+          (type passive)) 
+        (pin 
+          (num 3) 
+          (name Pin_3) 
+          (type passive)) 
+        (pin 
+          (num 4) 
+          (name Pin_4) 
+          (type passive)) 
+        (pin 
+          (num 5) 
+          (name Pin_5) 
+          (type passive)) 
+        (pin 
+          (num 6) 
+          (name Pin_6) 
+          (type passive)) 
+        (pin 
+          (num 7) 
+          (name Pin_7) 
+          (type passive)) 
+        (pin 
+          (num 8) 
+          (name Pin_8) 
+          (type passive)) 
+        (pin 
+          (num 9) 
+          (name Pin_9) 
+          (type passive)) 
+        (pin 
+          (num 10) 
+          (name Pin_10) 
+          (type passive)))) 
+    (libpart 
+      (lib Connector_Generic) 
+      (part Conn_01x16) 
+      (description "Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs ~) 
+      (footprints 
+        (fp Connector*:*_1x??_*)) 
+      (fields 
+        (field 
+          (name Reference) J) 
+        (field 
+          (name Value) Conn_01x16)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name Pin_1) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name Pin_2) 
+          (type passive)) 
+        (pin 
+          (num 3) 
+          (name Pin_3) 
+          (type passive)) 
+        (pin 
+          (num 4) 
+          (name Pin_4) 
+          (type passive)) 
+        (pin 
+          (num 5) 
+          (name Pin_5) 
+          (type passive)) 
+        (pin 
+          (num 6) 
+          (name Pin_6) 
+          (type passive)) 
+        (pin 
+          (num 7) 
+          (name Pin_7) 
+          (type passive)) 
+        (pin 
+          (num 8) 
+          (name Pin_8) 
+          (type passive)) 
+        (pin 
+          (num 9) 
+          (name Pin_9) 
+          (type passive)) 
+        (pin 
+          (num 10) 
+          (name Pin_10) 
+          (type passive)) 
+        (pin 
+          (num 11) 
+          (name Pin_11) 
+          (type passive)) 
+        (pin 
+          (num 12) 
+          (name Pin_12) 
+          (type passive)) 
+        (pin 
+          (num 13) 
+          (name Pin_13) 
+          (type passive)) 
+        (pin 
+          (num 14) 
+          (name Pin_14) 
+          (type passive)) 
+        (pin 
+          (num 15) 
+          (name Pin_15) 
+          (type passive)) 
+        (pin 
+          (num 16) 
+          (name Pin_16) 
+          (type passive)))) 
+    (libpart 
+      (lib Switch) 
+      (part SW_DIP_x01) 
+      (description "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol") 
+      (footprints 
+        (fp SW?DIP?x1*)) 
+      (fields 
+        (field 
+          (name Reference) SW) 
+        (field 
+          (name Value) SW_DIP_x01)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name ~) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name ~) 
+          (type passive)))) 
+    (libpart 
+      (lib mx1a) 
+      (part MX1A) 
+      (fields 
+        (field 
+          (name Reference) S) 
+        (field 
+          (name Value) MX1A)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name ~) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name ~) 
+          (type passive))))) 
+  (libraries 
+    (library 
+      (logical Connector_Generic) 
+      (uri /usr/share/kicad/library/Connector_Generic.lib)) 
+    (library 
+      (logical Switch) 
+      (uri /usr/share/kicad/library/Switch.lib)) 
+    (library 
+      (logical mx1a) 
+      (uri /home/joe/Desktop/MAS3K-master/MAS3k-C/mx1a.lib))) 
+  (nets 
+    (net 
+      (code 1) 
+      (name "Net-(ON/OFF1-Pad1)") 
+      (node 
+        (ref ON/OFF1) 
+        (pin 1)) 
+      (node 
+        (ref SW1) 
+        (pin 2))) 
+    (net 
+      (code 2) 
+      (name /ROW10) 
+      (node 
+        (ref J2) 
+        (pin 10))) 
+    (net 
+      (code 3) 
+      (name /COL12) 
+      (node 
+        (ref J1) 
+        (pin 12)) 
+      (node 
+        (ref HYPHEN1) 
+        (pin 1)) 
+      (node 
+        (ref ZERO1) 
+        (pin 1)) 
+      (node 
+        (ref APOS1) 
+        (pin 1)) 
+      (node 
+        (ref SLASH1) 
+        (pin 1)) 
+      (node 
+        (ref P1) 
+        (pin 1)) 
+      (node 
+        (ref OBRKT1) 
+        (pin 1)) 
+      (node 
+        (ref SEMICOL1) 
+        (pin 1))) 
+    (net 
+      (code 4) 
+      (name /ROW7) 
+      (node 
+        (ref ONE1) 
+        (pin 2)) 
+      (node 
+        (ref EIGHT1) 
+        (pin 2)) 
+      (node 
+        (ref THREE1) 
+        (pin 2)) 
+      (node 
+        (ref CLEAR1) 
+        (pin 2)) 
+      (node 
+        (ref FOUR1) 
+        (pin 2)) 
+      (node 
+        (ref SPELL1) 
+        (pin 2)) 
+      (node 
+        (ref TWO1) 
+        (pin 2)) 
+      (node 
+        (ref SEVEN1) 
+        (pin 2)) 
+      (node 
+        (ref NINE1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 7)) 
+      (node 
+        (ref ZERO1) 
+        (pin 2))) 
+    (net 
+      (code 5) 
+      (name /ROW6) 
+      (node 
+        (ref FIVE1) 
+        (pin 2)) 
+      (node 
+        (ref LOPTION1) 
+        (pin 2)) 
+      (node 
+        (ref FILE1) 
+        (pin 2)) 
+      (node 
+        (ref FILE2) 
+        (pin 2)) 
+      (node 
+        (ref FILE8) 
+        (pin 2)) 
+      (node 
+        (ref PRINT1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 6)) 
+      (node 
+        (ref HYPHEN1) 
+        (pin 2)) 
+      (node 
+        (ref EQUALS1) 
+        (pin 2)) 
+      (node 
+        (ref APPS1) 
+        (pin 2)) 
+      (node 
+        (ref SEND1) 
+        (pin 2)) 
+      (node 
+        (ref GRAVE1) 
+        (pin 2)) 
+      (node 
+        (ref SIX1) 
+        (pin 2))) 
+    (net 
+      (code 6) 
+      (name /ROW5) 
+      (node 
+        (ref HOME1) 
+        (pin 2)) 
+      (node 
+        (ref P1) 
+        (pin 2)) 
+      (node 
+        (ref O1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 5)) 
+      (node 
+        (ref Q1) 
+        (pin 2)) 
+      (node 
+        (ref W1) 
+        (pin 2)) 
+      (node 
+        (ref E1) 
+        (pin 2)) 
+      (node 
+        (ref I1) 
+        (pin 2)) 
+      (node 
+        (ref R1) 
+        (pin 2)) 
+      (node 
+        (ref U1) 
+        (pin 2))) 
+    (net 
+      (code 7) 
+      (name /ROW4) 
+      (node 
+        (ref F1) 
+        (pin 2)) 
+      (node 
+        (ref BSLASH1) 
+        (pin 2)) 
+      (node 
+        (ref A1) 
+        (pin 2)) 
+      (node 
+        (ref S1) 
+        (pin 2)) 
+      (node 
+        (ref D1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 4)) 
+      (node 
+        (ref SEMICOL1) 
+        (pin 2)) 
+      (node 
+        (ref J3) 
+        (pin 2)) 
+      (node 
+        (ref K1) 
+        (pin 2)) 
+      (node 
+        (ref L1) 
+        (pin 2))) 
+    (net 
+      (code 8) 
+      (name /ROW3) 
+      (node 
+        (ref FILE5) 
+        (pin 2)) 
+      (node 
+        (ref H1) 
+        (pin 2)) 
+      (node 
+        (ref G1) 
+        (pin 2)) 
+      (node 
+        (ref CMD1) 
+        (pin 2)) 
+      (node 
+        (ref DOWN1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 3)) 
+      (node 
+        (ref APOS1) 
+        (pin 2)) 
+      (node 
+        (ref FILE4) 
+        (pin 2)) 
+      (node 
+        (ref FILE6) 
+        (pin 2))) 
+    (net 
+      (code 9) 
+      (name /ROW2) 
+      (node 
+        (ref CAPS1) 
+        (pin 2)) 
+      (node 
+        (ref CBRKT1) 
+        (pin 2)) 
+      (node 
+        (ref LSHIFT1) 
+        (pin 2)) 
+      (node 
+        (ref TAB1) 
+        (pin 2)) 
+      (node 
+        (ref T1) 
+        (pin 2)) 
+      (node 
+        (ref BACKSP1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 2)) 
+      (node 
+        (ref OBRKT1) 
+        (pin 2)) 
+      (node 
+        (ref FILE7) 
+        (pin 2)) 
+      (node 
+        (ref Y1) 
+        (pin 2)) 
+      (node 
+        (ref FILE3) 
+        (pin 2))) 
+    (net 
+      (code 10) 
+      (name /ROW1) 
+      (node 
+        (ref J2) 
+        (pin 1)) 
+      (node 
+        (ref ON/OFF1) 
+        (pin 2))) 
+    (net 
+      (code 11) 
+      (name /ROW8) 
+      (node 
+        (ref ROPTION1) 
+        (pin 2)) 
+      (node 
+        (ref FIND1) 
+        (pin 2)) 
+      (node 
+        (ref M1) 
+        (pin 2)) 
+      (node 
+        (ref Z1) 
+        (pin 2)) 
+      (node 
+        (ref COMMA1) 
+        (pin 2)) 
+      (node 
+        (ref ENTER1) 
+        (pin 2)) 
+      (node 
+        (ref END1) 
+        (pin 2)) 
+      (node 
+        (ref PERIOD1) 
+        (pin 2)) 
+      (node 
+        (ref RSHIFT1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 8)) 
+      (node 
+        (ref C1) 
+        (pin 2)) 
+      (node 
+        (ref V1) 
+        (pin 2)) 
+      (node 
+        (ref X1) 
+        (pin 2))) 
+    (net 
+      (code 12) 
+      (name /COL3) 
+      (node 
+        (ref C1) 
+        (pin 1)) 
+      (node 
+        (ref D1) 
+        (pin 1)) 
+      (node 
+        (ref FILE3) 
+        (pin 1)) 
+      (node 
+        (ref FILE4) 
+        (pin 1)) 
+      (node 
+        (ref THREE1) 
+        (pin 1)) 
+      (node 
+        (ref E1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 3)) 
+      (node 
+        (ref FILE2) 
+        (pin 1))) 
+    (net 
+      (code 13) 
+      (name /COL2) 
+      (node 
+        (ref PRINT1) 
+        (pin 1)) 
+      (node 
+        (ref SPELL1) 
+        (pin 1)) 
+      (node 
+        (ref ENTER1) 
+        (pin 1)) 
+      (node 
+        (ref LSPACE1) 
+        (pin 1)) 
+      (node 
+        (ref RSPACE1) 
+        (pin 1)) 
+      (node 
+        (ref BACKSP1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 2)) 
+      (node 
+        (ref FILE5) 
+        (pin 1)) 
+      (node 
+        (ref BSLASH1) 
+        (pin 1))) 
+    (net 
+      (code 14) 
+      (name /COL16) 
+      (node 
+        (ref UP1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 16)) 
+      (node 
+        (ref SEND1) 
+        (pin 1)) 
+      (node 
+        (ref FIND1) 
+        (pin 1))) 
+    (net 
+      (code 15) 
+      (name /COL15) 
+      (node 
+        (ref RIGHT1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 15)) 
+      (node 
+        (ref APPS1) 
+        (pin 1))) 
+    (net 
+      (code 16) 
+      (name /COL14) 
+      (node 
+        (ref LEFT1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 14)) 
+      (node 
+        (ref END1) 
+        (pin 1)) 
+      (node 
+        (ref DOWN1) 
+        (pin 1))) 
+    (net 
+      (code 17) 
+      (name /COL13) 
+      (node 
+        (ref ESC1) 
+        (pin 1)) 
+      (node 
+        (ref CMD1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 13)) 
+      (node 
+        (ref HOME1) 
+        (pin 1)) 
+      (node 
+        (ref CLEAR1) 
+        (pin 1))) 
+    (net 
+      (code 18) 
+      (name /ROW9) 
+      (node 
+        (ref J2) 
+        (pin 9)) 
+      (node 
+        (ref ESC1) 
+        (pin 2)) 
+      (node 
+        (ref N1) 
+        (pin 2)) 
+      (node 
+        (ref SLASH1) 
+        (pin 2)) 
+      (node 
+        (ref CTRL1) 
+        (pin 2)) 
+      (node 
+        (ref B1) 
+        (pin 2)) 
+      (node 
+        (ref LSPACE1) 
+        (pin 2)) 
+      (node 
+        (ref RSPACE1) 
+        (pin 2)) 
+      (node 
+        (ref LEFT1) 
+        (pin 2)) 
+      (node 
+        (ref UP1) 
+        (pin 2)) 
+      (node 
+        (ref RIGHT1) 
+        (pin 2))) 
+    (net 
+      (code 19) 
+      (name /COL9) 
+      (node 
+        (ref CBRKT1) 
+        (pin 1)) 
+      (node 
+        (ref EIGHT1) 
+        (pin 1)) 
+      (node 
+        (ref COMMA1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 9)) 
+      (node 
+        (ref FILE6) 
+        (pin 1)) 
+      (node 
+        (ref I1) 
+        (pin 1)) 
+      (node 
+        (ref EQUALS1) 
+        (pin 1)) 
+      (node 
+        (ref K1) 
+        (pin 1))) 
+    (net 
+      (code 20) 
+      (name /COL5) 
+      (node 
+        (ref CTRL1) 
+        (pin 1)) 
+      (node 
+        (ref Q1) 
+        (pin 1)) 
+      (node 
+        (ref A1) 
+        (pin 1)) 
+      (node 
+        (ref TAB1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 5)) 
+      (node 
+        (ref GRAVE1) 
+        (pin 1)) 
+      (node 
+        (ref ONE1) 
+        (pin 1)) 
+      (node 
+        (ref Z1) 
+        (pin 1))) 
+    (net 
+      (code 21) 
+      (name /COL7) 
+      (node 
+        (ref J1) 
+        (pin 7)) 
+      (node 
+        (ref RSHIFT1) 
+        (pin 1)) 
+      (node 
+        (ref LSHIFT1) 
+        (pin 1))) 
+    (net 
+      (code 22) 
+      (name /COL11) 
+      (node 
+        (ref O1) 
+        (pin 1)) 
+      (node 
+        (ref FILE8) 
+        (pin 1)) 
+      (node 
+        (ref PERIOD1) 
+        (pin 1)) 
+      (node 
+        (ref NINE1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 11)) 
+      (node 
+        (ref FILE7) 
+        (pin 1)) 
+      (node 
+        (ref L1) 
+        (pin 1))) 
+    (net 
+      (code 23) 
+      (name /COL10) 
+      (node 
+        (ref ROPTION1) 
+        (pin 1)) 
+      (node 
+        (ref LOPTION1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 10))) 
+    (net 
+      (code 24) 
+      (name /COL1) 
+      (node 
+        (ref J1) 
+        (pin 1)) 
+      (node 
+        (ref SW1) 
+        (pin 1))) 
+    (net 
+      (code 25) 
+      (name /COL4) 
+      (node 
+        (ref TWO1) 
+        (pin 1)) 
+      (node 
+        (ref CAPS1) 
+        (pin 1)) 
+      (node 
+        (ref S1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 4)) 
+      (node 
+        (ref W1) 
+        (pin 1)) 
+      (node 
+        (ref X1) 
+        (pin 1)) 
+      (node 
+        (ref FILE1) 
+        (pin 1))) 
+    (net 
+      (code 26) 
+      (name /COL6) 
+      (node 
+        (ref G1) 
+        (pin 1)) 
+      (node 
+        (ref FOUR1) 
+        (pin 1)) 
+      (node 
+        (ref FIVE1) 
+        (pin 1)) 
+      (node 
+        (ref T1) 
+        (pin 1)) 
+      (node 
+        (ref R1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 6)) 
+      (node 
+        (ref F1) 
+        (pin 1)) 
+      (node 
+        (ref B1) 
+        (pin 1)) 
+      (node 
+        (ref V1) 
+        (pin 1))) 
+    (net 
+      (code 27) 
+      (name /COL8) 
+      (node 
+        (ref J3) 
+        (pin 1)) 
+      (node 
+        (ref H1) 
+        (pin 1)) 
+      (node 
+        (ref SEVEN1) 
+        (pin 1)) 
+      (node 
+        (ref SIX1) 
+        (pin 1)) 
+      (node 
+        (ref U1) 
+        (pin 1)) 
+      (node 
+        (ref Y1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 8)) 
+      (node 
+        (ref M1) 
+        (pin 1)) 
+      (node 
+        (ref N1) 
+        (pin 1)))))
