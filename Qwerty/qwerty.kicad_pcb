@@ -362,7 +362,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm_wJumper"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -398,7 +398,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SW?DIP?x1*")
 		(path "/00000000-0000-0000-0000-00005c02aa16")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.14 2.42)
@@ -964,7 +967,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1001,6 +1004,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3d6")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -1164,7 +1169,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1201,6 +1206,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d43c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -1364,7 +1371,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1401,6 +1408,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e84")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -1564,7 +1573,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1601,6 +1610,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcea")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -1764,7 +1775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1801,6 +1812,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d430")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -1964,7 +1977,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2001,6 +2014,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3c4")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -2164,7 +2179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2201,6 +2216,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bce4")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -2364,7 +2381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2401,6 +2418,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c028626")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -2564,7 +2583,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2601,6 +2620,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3dc")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -2764,7 +2785,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2801,6 +2822,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d44e")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -2964,7 +2987,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3001,6 +3024,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d46c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -3164,7 +3189,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3201,6 +3226,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02862c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -3364,7 +3391,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3401,6 +3428,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d4b4")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -3564,7 +3593,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3601,6 +3630,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcae")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -3764,7 +3795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3801,6 +3832,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e66")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -3964,7 +3997,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4001,6 +4034,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d484")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -4164,7 +4199,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4201,6 +4236,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d412")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -4364,7 +4401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4401,6 +4438,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e7e")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -4564,7 +4603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4601,6 +4640,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d466")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -4764,7 +4805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4801,6 +4842,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d478")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -4964,7 +5007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5001,6 +5044,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3f4")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -5164,7 +5209,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5201,6 +5246,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e4e")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -5364,7 +5411,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5401,6 +5448,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c0275fc")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -5564,7 +5613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5601,6 +5650,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c027602")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -5764,7 +5815,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5801,6 +5852,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c027810")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -5964,7 +6017,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6001,6 +6054,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c027816")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -6164,7 +6219,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6201,6 +6256,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02781c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -6364,7 +6421,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6401,6 +6458,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02860e")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -6564,7 +6623,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6601,6 +6660,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c028614")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -6764,7 +6825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6801,6 +6862,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d418")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -6964,7 +7027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7001,6 +7064,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3ca")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -7164,7 +7229,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7201,6 +7266,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02754a")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -7364,7 +7431,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7401,6 +7468,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3e2")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -7564,7 +7633,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7601,6 +7670,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e36")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -7764,7 +7835,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7801,6 +7872,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3e8")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -7964,7 +8037,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8001,6 +8074,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d47e")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -8164,7 +8239,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8201,6 +8276,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e78")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -8364,7 +8441,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8401,6 +8478,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bccc")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -8564,7 +8643,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8601,6 +8680,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3ee")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -8764,7 +8845,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8801,6 +8882,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e54")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -8964,7 +9047,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9001,6 +9084,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d406")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -9164,7 +9249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9201,6 +9286,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c023f0d")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -9364,7 +9451,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9401,6 +9488,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d4a8")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -9564,7 +9653,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9601,6 +9690,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d472")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -9764,7 +9855,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9801,6 +9892,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d41e")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -9964,7 +10057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10001,6 +10094,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d48a")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -10164,7 +10259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10201,6 +10296,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d448")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -10364,7 +10461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10401,6 +10498,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d442")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -10564,7 +10663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10601,6 +10700,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e6c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -10764,7 +10865,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10801,6 +10902,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcd2")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -10964,7 +11067,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11001,6 +11104,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d49c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -11164,7 +11269,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11201,6 +11306,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d400")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -11364,7 +11471,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11401,6 +11508,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e3c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -11564,7 +11673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11601,6 +11710,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcd8")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -11764,7 +11875,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11801,6 +11912,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d454")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -11964,7 +12077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12001,6 +12114,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02861a")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -12164,7 +12279,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12201,6 +12316,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bca2")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -12364,7 +12481,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12401,6 +12518,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcb4")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -12564,7 +12683,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12601,6 +12720,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d4ba")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -12764,7 +12885,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12801,6 +12922,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d4a2")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -12964,7 +13087,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13001,6 +13124,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcde")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -13164,7 +13289,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13201,6 +13326,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bc9c")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -13364,7 +13491,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13401,6 +13528,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3d0")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -13564,7 +13693,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13601,6 +13730,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c028632")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -13764,7 +13895,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13801,6 +13932,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e60")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -13964,7 +14097,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14001,6 +14134,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e5a")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -14164,7 +14299,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14201,6 +14336,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d45a")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -14364,7 +14501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14401,6 +14538,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c028620")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -14564,7 +14703,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14601,6 +14740,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcba")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -14764,7 +14905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14801,6 +14942,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d460")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -14964,7 +15107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15001,6 +15144,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e48")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -15164,7 +15309,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15201,6 +15346,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e42")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -15364,7 +15511,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15401,6 +15548,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcc6")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -15564,7 +15713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15601,6 +15750,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d4ae")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -15764,7 +15915,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15801,6 +15952,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d436")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -15964,7 +16117,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16001,6 +16154,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bca8")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -16164,7 +16319,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16201,6 +16356,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d42a")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -16364,7 +16521,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16401,6 +16558,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02bcc0")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -16564,7 +16723,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16601,6 +16760,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d424")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -16764,7 +16925,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16801,6 +16962,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c029e72")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -16964,7 +17127,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS_Parts:MX_ALPS_PG1350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17001,6 +17164,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005c02d3fa")
+		(sheetname "Root")
+		(sheetfile "qwerty.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -7.62)
@@ -18628,6 +18793,785 @@
 			(remove_unused_layers no)
 			(net 26 "/ROW10")
 			(uuid "be745439-b133-428d-8746-f03828ce10d7")
+		)
+	)
+	(footprint "SLW16R-1C7LF:CON16_1X16_RB_58JF_GLE"
+		(layer "B.Cu")
+		(uuid "07e20bbd-3abe-4acf-b5e3-b80d544825e7")
+		(at 204.396 65.64125 180)
+		(tags "SLW16R-1C7LF ")
+		(property "Reference" "REF**"
+			(at 7.5 0 0)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "1ccd0c84-c226-41fa-9a41-8fc4e615f181")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "CON16_1X16_RB_58JF_GLE"
+			(at 7.5 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(uuid "4ad17db0-0581-4047-b99e-6225b41ebce4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "SLW16R-1C7LF:CON16_1X16_RB_58JF_GLE"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "989630a8-4370-40c6-90e8-79b2f855c950")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "46eaca54-00c1-499c-8861-d3cb7fb6b26c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "32d9290a-6786-462e-b2dc-8db3e9870df7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(attr through_hole)
+		(fp_line
+			(start 18.7268 6.9342)
+			(end 18.7268 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "ff51d608-4c10-4e47-97ac-4628590474d9")
+		)
+		(fp_line
+			(start 18.7268 1.1684)
+			(end 15.609833 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "098858f9-a56f-462b-a0e0-e3ebd1a07378")
+		)
+		(fp_line
+			(start 14.390168 1.1684)
+			(end 13.609832 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "48f3050c-d4fd-471c-bcde-3b05d2b203d7")
+		)
+		(fp_line
+			(start 12.390167 1.1684)
+			(end 11.609833 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "fe1df683-095a-4d4c-b7f4-caa3bc83d1c8")
+		)
+		(fp_line
+			(start 10.390169 1.1684)
+			(end 9.609832 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "d1856729-b597-4fcd-9e38-c8d2a5aad1f8")
+		)
+		(fp_line
+			(start 8.390167 1.1684)
+			(end 7.609831 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "25ad2795-5ba8-4b81-8dfb-f7a9af2acba6")
+		)
+		(fp_line
+			(start 6.390166 1.1684)
+			(end 5.609833 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "ff704674-a39c-4785-bdb3-603530ce6234")
+		)
+		(fp_line
+			(start 4.390168 1.1684)
+			(end 3.609832 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "246c7c69-58bc-424c-af20-f2b828332794")
+		)
+		(fp_line
+			(start 2.390167 1.1684)
+			(end 1.609833 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "3d8695dd-7209-4e9e-a6df-224b8a0499cb")
+		)
+		(fp_line
+			(start 0.390168 1.1684)
+			(end -3.7268 1.1684)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "5456b549-e063-45c0-8397-d17f8d979ecc")
+		)
+		(fp_line
+			(start -3.7268 6.9342)
+			(end 18.7268 6.9342)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "aa308864-f891-4b2d-90ab-597734f5a10d")
+		)
+		(fp_line
+			(start -3.7268 1.1684)
+			(end -3.7268 6.9342)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "3f83b2a8-3fd1-4624-9942-23f6e348d65c")
+		)
+		(fp_arc
+			(start -0.185415 2.23784)
+			(mid -0.379292 1.868967)
+			(end -0.119423 1.5432)
+			(stroke
+				(width 0.508)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "4938cbfa-b6a4-4e16-a266-b6aad1a5fa23")
+		)
+		(fp_circle
+			(center 0 1.905)
+			(end 0.381 1.905)
+			(stroke
+				(width 0.508)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "e4984c21-df70-4335-851a-786a72a76d9a")
+		)
+		(fp_line
+			(start 18.8538 8.763)
+			(end 18.8538 -0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "6d496c08-0f1b-4c34-bb92-d42085a5d48e")
+		)
+		(fp_line
+			(start 18.8538 -0.9525)
+			(end -3.8538 -0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "d894363f-0688-4cfc-9929-2205f2c10b94")
+		)
+		(fp_line
+			(start -3.8538 8.763)
+			(end 18.8538 8.763)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "1465854d-5582-4694-9b87-dbfa3603fe88")
+		)
+		(fp_line
+			(start -3.8538 -0.9525)
+			(end -3.8538 8.763)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "00186942-4cc2-4b59-b51a-cbb9dad8b8af")
+		)
+		(fp_line
+			(start 18.5998 6.8072)
+			(end 18.5998 1.2954)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "01581f57-3b54-499a-9530-4672667cb220")
+		)
+		(fp_line
+			(start 18.5998 1.2954)
+			(end -3.5998 1.2954)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "9a327f6c-4a7b-4101-9655-ac447b2160ff")
+		)
+		(fp_line
+			(start -3.5998 6.8072)
+			(end 18.5998 6.8072)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "b381f1ec-c17f-417a-a198-44a2e72171ac")
+		)
+		(fp_line
+			(start -3.5998 1.2954)
+			(end -3.5998 6.8072)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e4a9e125-813f-4366-81c7-189df21d0427")
+		)
+		(fp_circle
+			(center 0 1.905)
+			(end 0.381 1.905)
+			(stroke
+				(width 0.508)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "d46f6d3d-596b-4977-b69f-ba2ec3b51c76")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 7.5 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(uuid "97b32ef4-e940-4228-8309-cdaeb8ed1704")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "c3240d8a-a443-490c-9217-cbb83f960ebf")
+		)
+		(pad "2" thru_hole circle
+			(at 1.000001 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "00f4a486-a0f4-4598-8e9a-5d5548b45daf")
+		)
+		(pad "3" thru_hole circle
+			(at 2.000001 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "10bb23f9-9210-4995-afbf-37a891470a7d")
+		)
+		(pad "4" thru_hole circle
+			(at 2.999999 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "e41fc866-18e1-41da-9488-81748804b168")
+		)
+		(pad "5" thru_hole circle
+			(at 4 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "36c00f06-b5d9-4970-95fe-500072b03e95")
+		)
+		(pad "6" thru_hole circle
+			(at 5 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "4bbdc24d-223c-4e34-bf4b-d11e7d155c79")
+		)
+		(pad "7" thru_hole circle
+			(at 6.000001 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "6dc5066c-d0ae-4a7c-9106-a2d52cef3a2f")
+		)
+		(pad "8" thru_hole circle
+			(at 6.999999 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "37530f90-d891-4a66-85e3-c03614b86a02")
+		)
+		(pad "9" thru_hole circle
+			(at 7.999999 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "09e85c3d-0178-4d90-b9fe-9b2d78b6e1fd")
+		)
+		(pad "10" thru_hole circle
+			(at 9 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "02c0e898-67e7-46e2-b0e5-510b4a5e9a4a")
+		)
+		(pad "11" thru_hole circle
+			(at 10 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "1548b75d-450b-4c22-b1b0-e058b2cbbeda")
+		)
+		(pad "12" thru_hole circle
+			(at 11.000001 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "aa22100b-8cca-46c9-95c8-c019e48cea6b")
+		)
+		(pad "13" thru_hole circle
+			(at 11.999999 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "a55e2a6a-23aa-451a-b381-56dea4f0bd27")
+		)
+		(pad "14" thru_hole circle
+			(at 13 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "f855378b-7e6b-4d79-bb11-bda81a5690f0")
+		)
+		(pad "15" thru_hole circle
+			(at 14 0 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "5031fe72-ddba-4726-be47-95ddb392cf82")
+		)
+		(pad "16" thru_hole circle
+			(at 15.000001 2.000001 180)
+			(size 1.397 1.397)
+			(drill 0.8128)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "db84923a-6c3f-4850-89a7-02f78670012b")
+		)
+		(model "${KIPRJMOD}/SLW16R_1C7LF/SLW16R-1C7LF.STEP"
+			(offset
+				(xyz 14.5 4 2)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 0)
+			)
+		)
+	)
+	(footprint "HLW10R-2C7LF:AMPHENOL_HLW10R-2C7LF"
+		(layer "B.Cu")
+		(uuid "77848976-7aa9-4102-aa94-04384dd7e847")
+		(at 229.916 60.974)
+		(property "Reference" "REF**"
+			(at -3.375 6.385 0)
+			(layer "B.SilkS")
+			(uuid "56e8310c-5c64-4ed1-8485-33e52a120616")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "AMPHENOL_HLW10R-2C7LF"
+			(at 6.785 4.635 0)
+			(layer "B.Fab")
+			(uuid "174b2bfb-52cd-49f3-84f5-2199bc6693c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "HLW10R-2C7LF:AMPHENOL_HLW10R-2C7LF"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "46e5af9d-d0c7-49e0-b7ab-03b2b992eb54")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40cb1789-ef79-4e17-abff-4ea0eca1614c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b8238fd0-7b8b-432a-910c-8b6adeb1ab6a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(attr through_hole)
+		(fp_line
+			(start -6.3 -2.95)
+			(end 6.3 -2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "2bdb632d-dda3-4bc3-93a9-4ee594997de1")
+		)
+		(fp_line
+			(start -6.3 2.95)
+			(end -6.3 -2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "106304d8-d76c-4d5d-87a1-227f87247e63")
+		)
+		(fp_line
+			(start -4.45 2.95)
+			(end -6.3 2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "2d89316a-7a44-481f-87ca-f83ef8f14862")
+		)
+		(fp_line
+			(start 6.3 -2.95)
+			(end 6.3 2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "8dd0ed96-5577-4b81-bd27-e5ae1e559131")
+		)
+		(fp_line
+			(start 6.3 2.95)
+			(end 5.45 2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "3ae6ef95-ace4-47fe-8a1b-57bb45d24ee9")
+		)
+		(fp_circle
+			(center -7 0.575)
+			(end -6.9 0.575)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.SilkS")
+			(uuid "02040c47-45e8-4b11-b990-5fff63e7a96b")
+		)
+		(fp_line
+			(start -6.55 -3.2)
+			(end -6.55 3.454)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "740f31c6-8176-474d-b4a4-78110038fc8e")
+		)
+		(fp_line
+			(start -6.55 3.454)
+			(end 6.55 3.454)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "139ad71f-ec8c-41ca-9440-01e03cf3a411")
+		)
+		(fp_line
+			(start 6.55 -3.2)
+			(end -6.55 -3.2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "c43401d5-9865-4c27-8b68-39c62a572f94")
+		)
+		(fp_line
+			(start 6.55 3.454)
+			(end 6.55 -3.2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "68fdfd89-ca6f-47fd-af1b-2990e2b3b21e")
+		)
+		(fp_line
+			(start -6.3 -2.95)
+			(end 6.3 -2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1d867cac-e28f-4f87-867a-6e04d3b82c34")
+		)
+		(fp_line
+			(start -6.3 2.95)
+			(end -6.3 -2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "35595e27-90b8-44e6-95f4-5ffd4fa9adbc")
+		)
+		(fp_line
+			(start 6.3 -2.95)
+			(end 6.3 2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "82ccf884-f834-4648-9502-abb1157a9bd8")
+		)
+		(fp_line
+			(start 6.3 2.95)
+			(end -6.3 2.95)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e53f0564-95c4-4fea-92c6-7d8453c22b77")
+		)
+		(fp_circle
+			(center -7 0.575)
+			(end -6.9 0.575)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "5eb1ea33-dd72-4baa-9465-2682090f495a")
+		)
+		(pad "1" thru_hole rect
+			(at -4.5 0.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "a77e744c-ea31-49db-9570-7285fb0ff776")
+		)
+		(pad "2" thru_hole circle
+			(at -3.5 2.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "7340e92a-473c-49de-a50f-1a47b21b1935")
+		)
+		(pad "3" thru_hole circle
+			(at -2.5 0.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "f124ad21-0540-4125-a747-c737c53a7087")
+		)
+		(pad "4" thru_hole circle
+			(at -1.5 2.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "f2e68739-8278-48e2-bac2-b63bd56227d3")
+		)
+		(pad "5" thru_hole circle
+			(at -0.5 0.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "823a7eb4-37fd-4df1-8b42-3f3dce269564")
+		)
+		(pad "6" thru_hole circle
+			(at 0.5 2.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "11b4f209-b6eb-45c1-84c5-de443d66b69d")
+		)
+		(pad "7" thru_hole circle
+			(at 1.5 0.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "b35549c6-0b8e-44ac-beec-f882e3cd356f")
+		)
+		(pad "8" thru_hole circle
+			(at 2.5 2.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "6c248786-7841-4a27-bf65-3e612f11fdc0")
+		)
+		(pad "9" thru_hole circle
+			(at 3.5 0.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "b400a580-5017-4cf1-beeb-0f1530cabe68")
+		)
+		(pad "10" thru_hole circle
+			(at 4.5 2.575)
+			(size 1.258 1.258)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(solder_mask_margin 0.102)
+			(uuid "b98db4a4-1a2b-45ba-9b35-e8970c47474d")
+		)
+		(model "${KIPRJMOD}/HLW10R_2C7LF/HLW10R-2C7LF.step"
+			(offset
+				(xyz -11 0 2)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
 		)
 	)
 	(gr_line
