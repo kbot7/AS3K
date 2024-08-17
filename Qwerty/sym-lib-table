@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name mx1a)(type Legacy)(uri D:/Projects/MAS3K-master/MAS3k-C/mx1a.lib)(options "")(descr ""))
+  (lib (name qwerty-rescue)(type Legacy)(uri ${KIPRJMOD}/qwerty-rescue.lib)(options "")(descr "")(disabled))
+)
