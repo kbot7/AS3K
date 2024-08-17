@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "AS_Parts")(type "KiCad")(uri "${KIPRJMOD}/AS_Parts.pretty")(options "")(descr ""))
   (lib (name "Universal-Switch-Footprint")(type "KiCad")(uri "${KIPRJMOD}/Universal-Switch-Footprint.pretty")(options "")(descr ""))
+  (lib (name "HLW10R-2C7LF")(type "KiCad")(uri "${KIPRJMOD}/HLW10R_2C7LF")(options "")(descr ""))
+  (lib (name "SLW16R-1C7LF")(type "KiCad")(uri "${KIPRJMOD}/SLW16R_1C7LF/footprints.pretty")(options "")(descr ""))
 )

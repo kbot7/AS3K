@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "mx1a")(type "Legacy")(uri "D:/Projects/MAS3K-master/MAS3k-C/mx1a.lib")(options "")(descr ""))
   (lib (name "qwerty-rescue")(type "KiCad")(uri "${KIPRJMOD}/qwerty-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "HLW10R-2C7LF")(type "KiCad")(uri "${KIPRJMOD}/HLW10R_2C7LF/HLW10R-2C7LF.kicad_sym")(options "")(descr ""))
+  (lib (name "SLW16R-1C7LF")(type "KiCad")(uri "${KIPRJMOD}/SLW16R_1C7LF/2024-08-16_23-25-54.kicad_sym")(options "")(descr ""))
 )
